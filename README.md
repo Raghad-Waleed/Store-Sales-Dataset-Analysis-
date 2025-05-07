@@ -92,8 +92,7 @@ Final PDF report with insights
 
 
 ## Members Of Team
-
-![Members](members.png)
+![Image](https://github.com/user-attachments/assets/c6b172fe-f2f6-47af-b35b-3648f33c8362)
 
 
 
